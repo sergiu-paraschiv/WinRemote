@@ -1,0 +1,15 @@
+D:\Development\WinRemote\RemoteClient\RemoteClient\bin\Debug\ReverseMap\resources.pri
+D:\Development\WinRemote\RemoteClient\RemoteClient\bin\Debug\AppxManifest.xml
+D:\Development\WinRemote\RemoteClient\RemoteClient\bin\Debug\RemoteClient.build.appxrecipe
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\priconfig.xml
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\priconfig.xml.intermediate
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\layout.resfiles
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\layout.resfiles.intermediate
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\resources.resfiles
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\resources.resfiles.intermediate
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\pri.resfiles
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\pri.resfiles.intermediate
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\qualifiers.txt
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\qualifiers.txt.intermediate
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Development\WinRemote\RemoteClient\RemoteClient\bld\Debug\ProjectArchitectures.txt
